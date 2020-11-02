@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  transition: background-color 0.3s, color 0.3s;
+  background-color: gainsboro;
+}
+.container{
+  min-height: 100vh;
+  padding-top: 10vh;
+  width:80%
+}
+
+
+
+.night {
+  height: fit-content;
+  text-align: center;
+  width: 100%;  
+  background-color: black;
+  transition: background-color 0.3s, color 0.3s;
+  color:white
+}
+
+.night h3 {
+  background-color: black;
+  color: violet;
+  transition: background-color 0.3s, color 0.3s;
+}
+.night i {
+  background-color: black;
+  color:#FFA500;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.night .subbutt{
+  background-color:#00CC99 ;
+  color: black;
+}
+
+.night .savebutt{
+  background-color:violet ;
+  color: black;
+
+}
+.night .form-control{
+  background-color:#3f3f3f ;
+  color: black;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.night  ::placeholder{
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+
+}
+
+

@@ -1,0 +1,11 @@
+.cusheader{
+    display: flex ;
+    justify-content: space-between;
+  }
+  .title{
+      text-align: left;
+     padding: 0px;
+ } 
+ i:hover{
+     cursor: pointer;
+ }

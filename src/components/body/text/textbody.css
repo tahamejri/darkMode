@@ -1,0 +1,11 @@
+.bodytext{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+  }
+
+  .texth{
+  font-size: 14px;
+  width: 48%;
+  text-align: left;
+}
